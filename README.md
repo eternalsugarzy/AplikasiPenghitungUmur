@@ -22,7 +22,9 @@ Aplikasi ini dibangun menggunakan komponen Java Swing untuk GUI, LocalDate dan Z
 
 ## Code Frame (JFrame)
 
-    import java.time.LocalDate;
+```java
+
+        import java.time.LocalDate;
         import java.time.ZoneId;
         import java.time.format.DateTimeFormatter;
         import java.util.Date; 
@@ -305,9 +307,12 @@ Aplikasi ini dibangun menggunakan komponen Java Swing untuk GUI, LocalDate dan Z
         // End of variables declaration                   
         }
 
-
+```
 
 ## Code Java (PenghitungUmurHelper)
+
+```java
+
 
     import java.time.LocalDate;
     import java.time.Period; 
@@ -460,7 +465,7 @@ Aplikasi ini dibangun menggunakan komponen Java Swing untuk GUI, LocalDate dan Z
 
 
     }
-
+```
 
 
 
